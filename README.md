@@ -9,7 +9,8 @@
 
 _Create a GitHub Action and use it in a workflow._
 
-_Testing changes_
+Hello World!
+
 
 <!--
   <<< Author notes: Start of the course >>>
